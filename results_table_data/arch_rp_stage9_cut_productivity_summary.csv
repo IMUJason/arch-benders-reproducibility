@@ -1,0 +1,2 @@
+method,activated_iterations,heuristic_cuts,mean_next_master_lift,lift_to_gap_mass_ratio,lift_to_anchor_underestimation_ratio,supportive_cut_rate,heuristic_to_anchor_efficacy_ratio
+ARCH-RP-PORT,4,4,24.72879224653809,0.1093600828892592,0.0007251381393666215,0.0,0.1084184612688861

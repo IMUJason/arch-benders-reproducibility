@@ -1,0 +1,5 @@
+config_name,n_instances,mean_time_to_proof,mean_iterations,mean_extra_candidate_evals,mean_search_activated_iterations,dormant_rate,mean_delta_vs_bdmc,mean_delta_vs_bdmcs
+BD-MC,4,108.18492346875007,17.75,0.0,0.0,1.0,0.0,64.75580409375004
+ARCH-RP,4,110.96510323949985,17.75,0.0,0.0,1.0,-2.7801797707497826,61.97562432300026
+ARCH-RP-PORT,4,114.11842929174998,17.75,1.0,1.0,0.0,-5.933505822999905,58.82229827075014
+BD-MC-S,4,172.94072756250011,17.75,0.0,0.0,1.0,-64.75580409375004,0.0

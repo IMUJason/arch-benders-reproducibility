@@ -1,0 +1,6 @@
+config_name,n_instances,mean_time_to_proof,mean_iterations,mean_extra_candidate_evals,mean_search_activated_iterations,mean_candidate_generation_seconds,mean_heuristic_scenario_solve_seconds,dormant_rate
+ARCH-ACE-LB,4,30.9981844064896,13.0,0.0,0.0,0.0,0.0,1.0
+ARCH-RP,4,30.841166197991697,13.0,0.0,0.0,0.0,0.0,1.0
+ARCH-RP-PORT,4,31.274193208519137,13.0,1.0,1.0,0.2041029584943317,0.0054241460165940225,0.0
+BD-MC,4,30.44635371847835,13.0,0.0,0.0,0.0,0.0,1.0
+BD-SC,4,39.663929176997044,26.75,0.0,0.0,0.0,0.0,1.0
